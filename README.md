@@ -85,8 +85,8 @@ ML Project 1/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/riteshpanchal0906/recruitement-system.git
-   cd recruitement-system
+   git clone https://github.com/riteshpanchal0906/recruitment-system-prediction.git
+   cd recruitment-system-prediction
    ```
 
 2. **Install dependencies**
