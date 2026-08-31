@@ -34,13 +34,13 @@ Built with **Python, Flask, scikit-learn, and Matplotlib/Seaborn**, and deployed
 ## 🖼️ Screenshots
 
 **Home Page**
-(screenshots/home.png)
+1[](screenshots/home.png)
 
 **Recruitment Prediction Form**
-(screenshots/recruitment-form.png)
+![](screenshots/recruitment-form.png)
 
 **HR Analytics Dashboard**
-(screenshots/dashboard.png)
+![](screenshots/dashboard.png)
 
 ---
 
