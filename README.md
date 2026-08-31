@@ -37,7 +37,7 @@ Built with **Python, Flask, scikit-learn, and Matplotlib/Seaborn**, and deployed
 ![home](screenshots/home.png)
 
 **Recruitment Prediction Form**
-![recruitments](screenshots/recruitment-form.png)
+![recruitment-form](screenshots/recruitment-form.png)
 
 **HR Analytics Dashboard**
 ![dashboard](screenshots/dashboard.png)
