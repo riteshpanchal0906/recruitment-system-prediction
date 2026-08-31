@@ -129,8 +129,8 @@ The analytics dashboard reads the HR dataset directly and generates fresh visual
 
 ## 🧑‍💻 Author
 
-**Panchal Ritesh (Raj)**
-B.Tech Computer Science/IT — Gandhinagar Institute of Technology
+**Panchal Ritesh**
+B.Tech Computer Science — Gandhinagar Institute of Technology
 
 ---
 
